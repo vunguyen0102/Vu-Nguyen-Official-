@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project Website</title>
+</head>
+<body style="background-color:powderred;">
+  <h1 style="font-size :70px;">This is Victor's Home Page</h1>
+  <p style="color:blue">Hope you enjoy my page</p>
+  <hr>
+  <img src="versaillespic.jpg" alt="W3Schools.com" width="300" height="300">
+</body>
+</html>
